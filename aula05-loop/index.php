@@ -39,7 +39,7 @@
     }
     echo "<br>";
     for ($p = 1; $p <= 5; $p++){
-        echo "O quadrado de $p é " . ($p * $p) . "<br>";
+        echo "O quadrado de $p é " . ($p*  $p) . "<br>";
     }
     
 
